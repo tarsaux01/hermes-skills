@@ -1,13 +1,5 @@
 {
   "categories": {
-    "Emergente/NoPlaneadoe": {
-      "id": "73711170",
-      "type": "expense"
-    },
-    "banca": {
-      "id": "73623144",
-      "type": "expense"
-    },
     "Deportes": {
       "id": "70499115",
       "type": "expense"
@@ -354,7 +346,7 @@
     "Nuevo saldo": "52684861",
     "Cena": "52684863",
     "Cable RCA": "52684864",
-    "Lub": "52684867",
+    "Lubricante Íntimo": "52684867",
     "Compra BestBuy": "52684868",
     "Aguinaldo": "52684869",
     "Fondo de Ahorro": "52684870",
