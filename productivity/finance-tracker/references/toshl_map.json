@@ -1,5 +1,13 @@
 {
   "categories": {
+    "Servicios Digitales": {
+      "id": "63328388",
+      "type": "expense"
+    },
+    "Servicios IA": {
+      "id": "74544372",
+      "type": "expense"
+    },
     "Deportes": {
       "id": "70499115",
       "type": "expense"
@@ -70,10 +78,6 @@
     },
     "Pareja": {
       "id": "63329987",
-      "type": "expense"
-    },
-    "Digital": {
-      "id": "63328388",
       "type": "expense"
     },
     "Otro": {
