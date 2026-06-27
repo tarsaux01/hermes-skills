@@ -1,7 +1,7 @@
 ---
 name: silo-governance
 description: "The master architectural guide and operational law for Santiago's data silos. This skill governs how information is categorized, stored, and retrieved across the entire ecosystem."
-version: 1.1.0
+version: 1.2.0
 author: Hermes Agent
 license: MIT
 platforms: [linux]
@@ -52,7 +52,9 @@ Santiago's skills must be named **contextually** — the skill name itself shoul
 ### GitHub Backup
 All custom skills must be synced to `https://github.com/tarsaux01/hermes-skills` organized by category. After creating or modifying a skill locally, copy it to the repo clone at `/tmp/hermes-skills-repo/` and push.
 
-## 4. Memory Consolidation Protocol (MANDATORY)
+## 4. Memory Consolidation Protocol (REGLA DE ORO — INAMOVIBLE)
+
+**NUNCA borrar, truncar o perder información por compactación.** Esta es una regla de oro no negociable del ecosistema.
 
 When persistent memory reaches **>95% capacity**, consolidate operational data into silo reference files — **never lose data to compaction**.
 
