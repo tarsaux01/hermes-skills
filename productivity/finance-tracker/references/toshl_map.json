@@ -1,0 +1,476 @@
+{
+  "categories": {
+    "Emergente/NoPlaneadoe": {
+      "id": "73711170",
+      "type": "expense"
+    },
+    "banca": {
+      "id": "73623144",
+      "type": "expense"
+    },
+    "Deportes": {
+      "id": "70499115",
+      "type": "expense"
+    },
+    "SAT": {
+      "id": "68690498",
+      "type": "income"
+    },
+    "Ahorro Lluvia": {
+      "id": "67468174",
+      "type": "expense"
+    },
+    "Fiscal": {
+      "id": "66705823",
+      "type": "expense"
+    },
+    "Inversiones": {
+      "id": "65718692",
+      "type": "income"
+    },
+    "Mascotas": {
+      "id": "64975234",
+      "type": "expense"
+    },
+    "Donaciones": {
+      "id": "63493612",
+      "type": "expense"
+    },
+    "Compras en Internet": {
+      "id": "63380846",
+      "type": "expense"
+    },
+    "Otros": {
+      "id": "63353329",
+      "type": "expense"
+    },
+    "Deuda": {
+      "id": "63329993",
+      "type": "income"
+    },
+    "Servicios Bancarios": {
+      "id": "63328389",
+      "type": "expense"
+    },
+    "Reembolso": {
+      "id": "63353116",
+      "type": "income"
+    },
+    "Viajes": {
+      "id": "63329992",
+      "type": "expense"
+    },
+    "Vestimenta": {
+      "id": "63329991",
+      "type": "expense"
+    },
+    "Pensiones": {
+      "id": "63329990",
+      "type": "expense"
+    },
+    "Herramientas": {
+      "id": "63329989",
+      "type": "expense"
+    },
+    "Regalos": {
+      "id": "63329988",
+      "type": "expense"
+    },
+    "Pareja": {
+      "id": "63329987",
+      "type": "expense"
+    },
+    "Digital": {
+      "id": "63328388",
+      "type": "expense"
+    },
+    "Otro": {
+      "id": "63328387",
+      "type": "income"
+    },
+    "Proyectos": {
+      "id": "63328376",
+      "type": "income"
+    },
+    "Salarios y sueldos": {
+      "id": "63328385",
+      "type": "income"
+    },
+    "Asistencia sanitaria": {
+      "id": "63328384",
+      "type": "expense"
+    },
+    "Vivienda": {
+      "id": "63328383",
+      "type": "expense"
+    },
+    "Automóvil": {
+      "id": "63328382",
+      "type": "expense"
+    },
+    "Educación": {
+      "id": "63328381",
+      "type": "expense"
+    },
+    "Pago de Servicios": {
+      "id": "63328380",
+      "type": "expense"
+    },
+    "Diversión": {
+      "id": "63328379",
+      "type": "expense"
+    },
+    "Despensa": {
+      "id": "63328378",
+      "type": "expense"
+    },
+    "Emergente/NoPlaneado": {
+      "id": "63328377",
+      "type": "expense"
+    },
+    "Cuidado Personal": {
+      "id": "63328375",
+      "type": "expense"
+    },
+    "Alimentación": {
+      "id": "63328374",
+      "type": "expense"
+    },
+    "Transporte": {
+      "id": "63328373",
+      "type": "expense"
+    },
+    "Transferencia": {
+      "id": "63328347",
+      "type": "expense"
+    },
+    "Conciliación": {
+      "id": "reconciliation",
+      "type": "system"
+    },
+    "unsorted": {
+      "id": "unsorted",
+      "type": "system"
+    }
+  },
+  "accounts": {
+    "Didi Préstamos": {
+      "id": "4641850",
+      "currency": "MXN"
+    },
+    "Didi Card 0437": {
+      "id": "4625467",
+      "currency": "MXN"
+    },
+    "Creditea": {
+      "id": "4586722",
+      "currency": "MXN"
+    },
+    "Chapur": {
+      "id": "4487720",
+      "currency": "MXN"
+    },
+    "GBM+ Inversiones": {
+      "id": "3702336",
+      "currency": "MXN"
+    },
+    "Rappi Card": {
+      "id": "4416778",
+      "currency": "MXN"
+    },
+    "DP Crédito": {
+      "id": "4394136",
+      "currency": "MXN"
+    },
+    "Efectivo Viajes": {
+      "id": "4389294",
+      "currency": "MXN"
+    },
+    "Efectivo Ahorro": {
+      "id": "4389292",
+      "currency": "MXN"
+    },
+    "BBVA Ahorro": {
+      "id": "4235413",
+      "currency": "MXN"
+    },
+    "Dollar App Euros": {
+      "id": "4649996",
+      "currency": "EUR"
+    },
+    "Dollar App": {
+      "id": "4376761",
+      "currency": "USD"
+    },
+    "Quanfury": {
+      "id": "3792824",
+      "currency": "MXN"
+    },
+    "TC HSBC 9993": {
+      "id": "4297477",
+      "currency": "MXN"
+    },
+    "BBVA 5104": {
+      "id": "4215219",
+      "currency": "MXN"
+    },
+    "TC Nu 8507": {
+      "id": "4051988",
+      "currency": "MXN"
+    },
+    "Prestamos": {
+      "id": "3921892",
+      "currency": "MXN"
+    },
+    "Mercado Libre TC": {
+      "id": "4562665",
+      "currency": "MXN"
+    },
+    "Mercado Crédito": {
+      "id": "3907339",
+      "currency": "MXN"
+    },
+    "Mercado Pago": {
+      "id": "3729570",
+      "currency": "MXN"
+    },
+    "Hey Banco Inversión": {
+      "id": "4283570",
+      "currency": "MXN"
+    },
+    "TC Hey Banco 9805": {
+      "id": "3809532",
+      "currency": "MXN"
+    },
+    "Hey Banco": {
+      "id": "3714546",
+      "currency": "MXN"
+    },
+    "TC Stori 2072": {
+      "id": "3803408",
+      "currency": "MXN"
+    },
+    "Saldazo 3897": {
+      "id": "3483660",
+      "currency": "MXN"
+    },
+    "Binance": {
+      "id": "3734205",
+      "currency": "MXN"
+    },
+    "BITSO": {
+      "id": "3706858",
+      "currency": "MXN"
+    },
+    "Santander DC": {
+      "id": "3599460",
+      "currency": "MXN"
+    },
+    "Santander 8827": {
+      "id": "3743646",
+      "currency": "MXN"
+    },
+    "Efectivo": {
+      "id": "3957420",
+      "currency": "MXN"
+    }
+  },
+  "tags": {
+    "Retiro": "8564625",
+    "Comidas": "52618181",
+    "Refrigerio": "52618182",
+    "Otro": "55812580",
+    "Supermercado": "52618185",
+    "Licores": "52618186",
+    "Gas": "52618187",
+    "Botana": "52618188",
+    "Mercado": "52618189",
+    "Transferencia": "52618190",
+    "Material Escolar": "52618191",
+    "Aparcamiento": "52618192",
+    "Mantenimiento": "52618193",
+    "Deudas": "52618194",
+    "Farmacia": "52618195",
+    "Combustible": "52618196",
+    "Hosting": "52618197",
+    "Servicios": "52618198",
+    "Electricidad": "52618200",
+    "Aplicaciones": "52618201",
+    "Música": "52618202",
+    "Donaciones": "52618203",
+    "Teléfono móvil": "52618204",
+    "Series de TV": "52618205",
+    "Ocio": "52619642",
+    "Mascotas": "52619643",
+    "Calzado": "52619644",
+    "Ropa": "52619645",
+    "Uniformes": "52619646",
+    "Proveedores": "52619647",
+    "Salud": "52619648",
+    "Inversiones": "52619649",
+    "Inscripciones": "52619650",
+    "Colegiaturas": "52619651",
+    "Alquiler": "52619652",
+    "Accesorios": "52619653",
+    "Préstamos": "52619654",
+    "Emergencia Médica": "52619656",
+    "Internet/Banda ancha": "52619657",
+    "Muebles/Accesorios": "52619658",
+    "Dominios": "52619659",
+    "Ajuste": "52703228",
+    "Camión": "52620184",
+    "Perfume": "52620185",
+    "Camión Morena": "52620186",
+    "Camión Paul": "52620187",
+    "Corte De Pelo": "52620188",
+    "Uber BV": "52620189",
+    "Novedades De Quintana Roo": "52620190",
+    "Pago Andrea Mier y Terán": "52620191",
+    "Santander Plus": "52620192",
+    "Seguro Santander": "52620193",
+    "Retirada en cajero": "52642742",
+    "Lencería": "52684839",
+    "Motel": "52684840",
+    "Regalo": "52684841",
+    "Soporte Telcel": "52684842",
+    "Taxi": "52684843",
+    "Artículos De Uso Personal": "52684844",
+    "Mototaxi": "52684845",
+    "Funda Celular": "52684846",
+    "Cooperacion": "52684847",
+    "Acceso Spotify": "52684848",
+    "Cobro Préstamo": "52684849",
+    "Pensión Paul": "52684850",
+    "Viáticos Externos": "52684851",
+    "Abono Uniformes Trabajo": "52684852",
+    "Boletos Autobús": "52684853",
+    "Préstamo": "52684854",
+    "Piñata": "52684855",
+    "Baterías": "52684856",
+    "Regalo Mama": "52684857",
+    "Préstamo Mamá": "52684858",
+    "Herramientas": "52684859",
+    "Gasto Viaje": "52684860",
+    "Nuevo saldo": "52684861",
+    "Cena": "52684863",
+    "Cable RCA": "52684864",
+    "Lub": "52684867",
+    "Compra BestBuy": "52684868",
+    "Aguinaldo": "52684869",
+    "Fondo de Ahorro": "52684870",
+    "Celular Nuevo": "52684871",
+    "Caja De Ahorro": "52684872",
+    "Verificación Uber": "52684873",
+    "Viáticos Novedades": "52684874",
+    "Retiro Mercadolibre": "52684875",
+    "Regalo Cumpleaños": "52684876",
+    "Préstamo Russell": "52684877",
+    "ADO": "52684878",
+    "Just For Man": "52684880",
+    "Reposicion Tarjeta Debito": "52684881",
+    "Juguetes Sx": "52684882",
+    "Audífonos": "52684883",
+    "Abono Temporar por Aclaracion": "52684884",
+    "Desayuno": "52684885",
+    "Utilidades": "52684886",
+    "Transferencia de PayPal USD": "52684887",
+    "Membresia Sams": "52684888",
+    "Préstamo Caja Novedades": "52684889",
+    "Cancelacion Abono Temporal": "52684890",
+    "Comisión Renta Mensual": "52684891",
+    "IVA Comisión Renta Mensual": "52684892",
+    "Pago Cubículo": "52691042",
+    "Google Cloud": "52691105",
+    "Almuerzo": "52691376",
+    "Varias Compras Tienda": "52692922",
+    "Tickets Comida": "52766213",
+    "Cigarrillos": "52772104",
+    "Amazon": "53629132",
+    "Galletas": "52791110",
+    "Panadería": "52799667",
+    "Desayuno Escolar": "52818158",
+    "Cine": "52871103",
+    "Juegos Mecánicos": "52874294",
+    "Cafetería": "52875019",
+    "Cerveza": "52919608",
+    "Feria": "52919937",
+    "Pago Héctor Solís": "52930872",
+    "Comisión": "52930936",
+    "Varias Compras Oxxo": "52964885",
+    "Café Oficina": "53163966",
+    "Servicio Digital": "52967686",
+    "Todoist": "52968450",
+    "Carnes Frías": "52974856",
+    "Helado": "52978235",
+    "Cargo Temporal": "53052322",
+    "Agua Garrafón": "53072534",
+    "Monumento": "53077897",
+    "Licencia cPanel": "53092027",
+    "Propina": "53110538",
+    "Médico": "53110545",
+    "Chicles": "53135677",
+    "Pago Óscar Pérez": "53164030",
+    "Comisión Retiro": "53185230",
+    "Evento Escolar": "53185231",
+    "Carwash": "53299177",
+    "Café": "53350264",
+    "Toshl": "53434149",
+    "Fruta": "53488139",
+    "Pago Virgilio Serrano": "53565869",
+    "Controles de Consola": "53565877",
+    "Gastada Niños": "53565945",
+    "Digital Ocean": "53566274",
+    "Fiesta de Cumpleaños": "53628595",
+    "Video Juegos": "53629059",
+    "Basura": "53647849",
+    "Comisión Depósito": "53690026",
+    "Pago Tomás Martín": "53715846",
+    "Pago Julio Guerrero": "53752139",
+    "Compra Sams": "53809358",
+    "Pago Mário Rodríguez": "54036007",
+    "Pago Jorge Arturo Berzunza": "54143232",
+    "Pago Diego Malca": "54747458",
+    "Pastel": "54749448",
+    "Pago Carlos Abreu": "54803331",
+    "Pluginpress": "54894590",
+    "Pago Uziel Gongora": "55144173",
+    "Pago Alejandro Martinez": "55256795",
+    "Pago Luis Ramos": "55474193",
+    "Pago Lilia Tower": "55474196",
+    "Uber Eats": "55567460",
+    "Pago Joaquin Sánchez": "55698162",
+    "Pago Eibar Lara": "55698228",
+    "Pago Elisa Maya": "55698232",
+    "Pago Aurea Hernández": "55700756",
+    "Pago Alfonso Galán": "55700759",
+    "Pago Vladimir Sánchez": "55700823",
+    "Pago Alicia Alfaro": "55700953",
+    "Pago Ermilo Dorantes": "55701086",
+    "Pago Dionicio": "55701286",
+    "Devolución de Préstamo": "55748812",
+    "Pizza": "55832610",
+    "Licencia Elementor Pro": "56054667",
+    "Desempeño": "56071938",
+    "Manejo Despensa Lluvia": "56235066",
+    "KFC": "56252948",
+    "Pollo en Pie": "56314773",
+    "Chicharra": "56314963",
+    "Cocina Económica": "56314966",
+    "Paypal Apple": "56329801",
+    "Template": "56372877",
+    "Alimento Pollo": "56372941",
+    "Lechón/Cochinita": "56407762",
+    "Mega": "56450698",
+    "Plugins": "56481208",
+    "CoDi Verificación": "56513878",
+    "Verificación Amazon": "56513879",
+    "Pago Ricardo Hernández": "56517071",
+    "Salbutes/Panuchos/Caldo Pavo": "56586609",
+    "Tinta Impresora": "56993096",
+    "Carne Asada": "57013334",
+    "Hamburguesa": "57093305",
+    "Lotería / Juegos de Azar": "57198285",
+    "Ferretería": "57225961"
+  },
+  "currency_main": "MXN"
+}
